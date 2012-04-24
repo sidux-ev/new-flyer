@@ -1,4 +1,25 @@
-﻿Semplice-Linux project
+﻿sidux e.V.
+
+Am 01. April 2007 gegründet.
+
+Steuerbefreiter, gemeinnütziger Verein.
+
+Ziele:
+Förderung Freie Software und die damit in Zusammenhang stehende Projekt.
+
+Aktivitäten:
+Eigenveranstaltunge von Vortragreihen, Workshops und deutschlandweiten Anwender-Treffen.
+
+Teilnahme an verschiedenen FOSS Veranstaltungen, z.B. SIGINT Köln, FrOSCon, OpenRheinRuhr, Software Freedom Day, Open xchange Partner Summit.
+
+Kooperationen mit verschiedenen Projekten aus dem FOSS Umfeld.
+
+
+Weiter Informationen und Kontaktaufnahme:
+
+http://sidux-ev.org und natürlich hier am Stand.
+
+Semplice-Linux project
 ==============
 
 Not the usual Debian remix, since 2009.
