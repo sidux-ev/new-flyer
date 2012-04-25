@@ -3,24 +3,22 @@
 Am 01. April 2007 gegründet.
 
 Steuerbefreiter, gemeinnütziger Verein.
+Registergericht: Berlin Charlottenburg
+Geschäftsstelle: Aachen
 
 Ziele:
 Förderung Freie Software und die damit in Zusammenhang stehende Projekt.
 
 Aktivitäten:
-Eigenveranstaltunge von Vortragreihen, Workshops und deutschlandweiten Anwender-Treffen.
+Eigenveranstaltungen von Vortragreihen, Workshops, deutschlandweiten Anwender-Treffen und Gastreden bei verschiedenen Events.
 
-Teilnahme an verschiedenen FOSS Veranstaltungen, z.B. SIGINT Köln, FrOSCon, OpenRheinRuhr, Software Freedom Day, Open xchange Partner Summit.
+Teilnahme an verschiedenen FOSS Veranstaltungen, u.A. SIGINT Köln, FrOSCon, OpenRheinRuhr, Software Freedom Day, Open Xchange Partner Summit.
 
 Kooperationen mit verschiedenen Projekten aus dem FOSS Umfeld.
 
-
 Weiter Informationen und Kontaktaufnahme:
-
-http://sidux-ev.org und natürlich hier am Stand.
-
+http://sidux-ev.org oder direkt hier am Stand.
 Semplice-Linux project
-==============
 
 Not the usual Debian remix, since 2009.
 
