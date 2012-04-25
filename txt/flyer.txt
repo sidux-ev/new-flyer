@@ -22,15 +22,31 @@ Semplice-Linux project
 
 Not the usual Debian remix, since 2009.
 
-Debian is awesome: Everybody can modify, improve and remix it to fit their needs. It is a great base for a fast, lightweight, clean and
-simple distribution. This is the aim of Semplice-Linux, which is based on Debian sid to be always on the edge.
+Debian is awesome: Everybody can modify, improve and remix it to fit their needs. It is a
+great basis for a fast, lightweight, clean and simple distribution. This is the aim of
+Semplice-Linux, which is build on Debian sid to be always on the edge.
 
-Designed to be lightning fast on modern 64-bit machines, it also works well on old glories, requiring only a 486 (or better) processor and 384 MB of RAM. To provide this fast environment the distribution is based on Openbox.
+Designed to be lightning fast on modern 64-bit machines, Semplice-Linux works well on old
+glories, requiring only a 486 (or better) processor and 384 MB of RAM. To provide this
+fast environment the distribution is based on Openbox and a set of lightweight
+applications.
 
-Semplice-Linux doesn't harm any Debian ISO – everything is built from scratch, based on official debian tools and official archives. The process is automatic and ensures to have the same working environment across all builds. We try to compile according to the Debian Policy and everything modified by us is available in our repositories. In fact it's possible
-to get the same Semplice-Linux system simply starting from a basic debian booststrap.
+Semplice-Linux is built using official debian tools and archives, with an automated
+process for ensuring the same working environment across all builds. It is compiled
+according to the Debian Policy and every modification to the base system is available in
+our repositories. It is possible to get the same Semplice-Linux system by simply starting
+from a basic debian booststrap.
 
-Although we strongly believe in open source, we do include non-free firmware in the standard distribution to support a wide variety of machines. To encourage you to live without non-free software we make it easy to remove them. See http://semplice-linux.org/doku/semplice:nonfree#installed_system for more information.
+Although we strongly believe in open source, Semplice-Linux includes non-free firmware to
+support a wide variety of machines. To encourage you to live without non-free software we
+make it easy to remove them. See
+http://semplice-linux.org/doku/semplice:nonfree#installed_system for more information.
 
-Semplice-Linux provides a base working system for everything a common user needs. You will find a word processor (Abiword), a spreadsheet
-(Gnumeric), a music player (Exaile) and a great web browser (Chromium). And of course the Synaptic Package Manager which lets you install the 38,000 packages that Debian offers!
+Semplice-Linux provides a base working system for everything a common user needs:
+* A word processor (Abiword)
+* A spreadsheet (Gnumeric)
+* A music player (Exaile)
+* A web browser (Chromium)
+
+It also includes the Synaptic Package Manager which lets you
+install the 38,000 packages that Debian offers!
