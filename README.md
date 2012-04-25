@@ -1,4 +1,4 @@
 new-flyer
 =========
 
-Neuer Flyer sidux e.V. &amp; semplice-linux
+Neuer Flyer sidux e.V. &amp; Semplice-Linux
