@@ -7,7 +7,7 @@ Registergericht: Berlin Charlottenburg
 Geschäftsstelle: Aachen
 
 Ziele:
-Förderung Freie Software und die damit in Zusammenhang stehende Projekt.
+Förderung Freie Software und damit in Zusammenhang stehende Projekte.
 
 Aktivitäten:
 Eigenveranstaltungen von Vortragreihen, Workshops, deutschlandweiten Anwender-Treffen und Gastreden bei verschiedenen Events.
